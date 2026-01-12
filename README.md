@@ -44,29 +44,29 @@ KPI metrics
 
 4️⃣ Features / Highlights
 
-1. Restaurant-Level Performance Analysis - 
+Restaurant-Level Performance Analysis - 
 Analyzed orders and revenue by:
 1. Restaurant
 2. City
 3. Rating
 
-2. Cuisine Demand Analysis - 
+Cuisine Demand Analysis - 
 Identified:
 1. High-demand cuisines
 2. Popular food categories
 3. Customer preference patterns
 
-3. Rating Impact Analysis - 
+Rating Impact Analysis - 
 Showed how restaurant ratings affect:
 1. Order volume
 2. Customer demand
 
-4. Trend & Comparison Analysis -
+Trend & Comparison Analysis -
 Visualized:
 1. Order trends over time
 2. Performance comparisons across restaurants and cities
 
-5. Actionable Business Insights - 
+Actionable Business Insights - 
 Insights can help:
 1. Restaurants improve offerings
 2. Zomato optimize listings
@@ -74,4 +74,4 @@ Insights can help:
 
 5️⃣ Screenshot / Demo
 
-![zomato Dashboard](
+![zomato Dashboard](https://github.com/samarsinha2000-hub/Zomato-Sales-Restaurant-Performance-Analysis-Power-BI-/blob/main/Zomato%20Dashboard.png)
